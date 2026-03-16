@@ -30,7 +30,8 @@ export default function Hero() {
         <div className="hero-chips">
           <span className="hero-chip">USMC Veteran</span>
           <span className="hero-chip">Service Engineer</span>
-          <span className="hero-chip">BS in Accounting, BS in Computer Science</span>
+          <span className="hero-chip">B.S. Management & Accounting</span>
+          <span className="hero-chip">B.S. Computer Science, Software Engineering</span>
         </div>
 
         <div className="hero-cta">
