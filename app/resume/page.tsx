@@ -27,10 +27,10 @@ export default function ResumePage() {
           <p className="resume-summary">
             Technical support and reliability engineer with 8+ years of experience across cloud healthcare software, 
             fintech, and enterprise systems. Currently a Service Engineer at Microsoft (Nuance), specializing in server, 
-            security, and integration troubleshooting for hospital applications. Marine Corps veteran and avionics calibration technician, 
-            bringing strong leadership, operational discipline, and deep technical problem-solving expertise. B.S. in Computer Science (Software Engineering) 
-            and B.S. in Management & Accounting, with a passion for leveraging technology to drive customer success and operational excellence. 
-            Skilled in cross-functional collaboration, and background in automation, cloud platforms, and customer-focused engineering support.
+            security, and integration troubleshooting for hospital applications. Marine Corps veteran bringing strong leadership, 
+            operational discipline, and deep technical problem-solving expertise. Strong passion for leveraging technology to drive 
+            customer success and operational excellence. Skilled in cross-functional collaboration, background in automation, cloud platforms, 
+            and customer-focused engineering support.
           </p>
         </header>
 
