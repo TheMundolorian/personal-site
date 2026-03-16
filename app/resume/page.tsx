@@ -25,12 +25,12 @@ export default function ResumePage() {
         <header className="resume-header">
           <h1 className="resume-title">Resume</h1>
           <p className="resume-summary">
-            Engineering leader with 15+ years building products across AI,
-            security, and infrastructure. Currently Member of the Technical
-            Staff at OpenAI, where I work on Promptfoo and agent security.
-            Previously co-founded Promptfoo, built it into an AI security
-            platform, and sold it to OpenAI. Stanford MS, YC alum, previously VP
-            Engineering.
+            Technical support and reliability engineer with 8+ years of experience across cloud healthcare software, 
+            fintech, and enterprise systems. Currently a Service Engineer at Microsoft (Nuance), specializing in server, 
+            security, and integration troubleshooting for hospital applications. Marine Corps veteran and avionics calibration technician, 
+            bringing strong leadership, operational discipline, and deep technical problem-solving expertise. B.S. in Computer Science (Software Engineering) 
+            and B.S. in Management & Accounting, with a passion for leveraging technology to drive customer success and operational excellence. 
+            Skilled in cross-functional collaboration, and background in automation, cloud platforms, and customer-focused engineering support.
           </p>
         </header>
 

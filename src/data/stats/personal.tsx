@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import type { StatData } from '../../components/Stats/types';
 
 /** Birth date for age calculation (ISO format) */
-const BIRTH_DATE = '1990-02-05T09:24:00';
+const BIRTH_DATE = '1993-11-18T09:24:00';
 
 /** Milliseconds in an average year (accounting for leap years) */
 const MS_PER_YEAR = 1000 * 60 * 60 * 24 * 365.2421897;
@@ -52,7 +52,7 @@ const data: StatData[] = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Hooksett, NH',
   },
 ];
 
