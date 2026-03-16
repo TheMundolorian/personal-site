@@ -28,9 +28,9 @@ export default function Hero() {
         </p>
 
         <div className="hero-chips">
-          <span className="hero-chip">YC Alum</span>
-          <span className="hero-chip">Stanford ICME</span>
-          <span className="hero-chip">Co-founded Arthena & Matroid</span>
+          <span className="hero-chip">USMC Veteran</span>
+          <span className="hero-chip">Service Engineer</span>
+          <span className="hero-chip">BS in Accounting, BS in Computer Science</span>
         </div>
 
         <div className="hero-cta">
