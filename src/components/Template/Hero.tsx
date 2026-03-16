@@ -15,17 +15,16 @@ export default function Hero() {
         </h1>
 
         <p className="hero-tagline">
-          Member of the Technical Staff at{' '}
-          <a href="https://openai.com" className="hero-highlight">
-            OpenAI
+          Service Engineer at{' '}
+          <a href="https://www.microsoft.com/" className="hero-highlight">
+            Microsoft
           </a>
-          , where I work on{' '}
-          <a href="https://promptfoo.dev" className="hero-highlight">
-            Promptfoo
+          , where I work supporting the{' '}
+          <a href="https://www.microsoft.com/en-us/health-solutions/clinical-workflow/cde-one?msockid=1ca03aac06ea67842c502dbb078566b8" className="hero-highlight">
+            CDE One and Clintegrity
           </a>{' '}
-          and agent security.
+          products in the healthcare space.
           <br />
-          Previously co-founded, scaled, and sold Promptfoo to OpenAI.
         </p>
 
         <div className="hero-chips">
