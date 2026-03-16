@@ -13,9 +13,9 @@ export interface Position {
 
 const work: Position[] = [
   {
-    name: 'OpenAI',
+    name: 'Microsoft',
     position: 'Member of the Technical Staff',
-    url: 'https://openai.com',
+    url: 'https://microsoft.com',
     startDate: '2026-03-09',
     summary: `Building evaluation, red-teaming, and hardening infrastructure for AI systems
     at OpenAI, with a focus on Promptfoo and agent security.`,
