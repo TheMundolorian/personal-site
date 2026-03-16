@@ -16,7 +16,7 @@ const work: Position[] = [
     name: 'Microsoft',
     position: 'Member of the Technical Staff',
     url: 'https://microsoft.com',
-    startDate: '2026-03-09',
+    startDate: '2023-06-27',
     summary: `Building evaluation, red-teaming, and hardening infrastructure for AI systems
     at OpenAI, with a focus on Promptfoo and agent security.`,
   },
