@@ -77,6 +77,12 @@ const skills: Skill[] = [
     competency: 1,
     category: ['Infrastructure'],
   },
+  // Monitoring
+  {
+    title: 'Grafana',
+    competency: 5,
+    category: ['Monitoring'],
+  },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 /**
