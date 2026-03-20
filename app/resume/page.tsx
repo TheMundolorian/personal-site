@@ -15,7 +15,7 @@ import work from '@/data/resume/work';
 export const metadata: Metadata = {
   title: 'Resume',
   description:
-    "Michael D'Angelo's Resume. OpenAI, Promptfoo, Smile ID, Arthena, Matroid, Stanford ICME, YC alum.",
+    "Marcos Raymund's resume.",
 };
 
 export default function ResumePage() {
@@ -25,12 +25,10 @@ export default function ResumePage() {
         <header className="resume-header">
           <h1 className="resume-title">Resume</h1>
           <p className="resume-summary">
-            Technical support and reliability engineer with 8+ years of experience across cloud healthcare software, 
-            fintech, and enterprise systems. Currently a Service Engineer at Microsoft (Nuance), specializing in server, 
-            security, and integration troubleshooting for hospital applications. Marine Corps veteran bringing strong leadership, 
-            operational discipline, and deep technical problem-solving expertise. Strong passion for leveraging technology to drive 
-            customer success and operational excellence. Skilled in cross-functional collaboration, background in automation, cloud platforms, 
-            and customer-focused engineering support.
+            Senior Technical Support and Reliability Engineer with 8+ years of experience in healthcare cloud, fintech, and enterprise systems, 
+            specializing in integrations, identity (SSO/ADFS/SAML), and production issue resolution. Trusted escalation lead and advisor, 
+            known for solving complex challenges and driving customer success, with a strong foundation in automation, cloud technologies, 
+            and cross-functional collaboration. Marine Corps veteran with proven leadership and operational discipline.
           </p>
         </header>
 
