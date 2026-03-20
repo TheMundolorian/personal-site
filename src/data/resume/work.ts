@@ -14,7 +14,7 @@ export interface Position {
 const work: Position[] = [
   {
     name: 'Microsoft (Nuance Communications)',
-    position: 'Senior Service Engineer - Healthcare Applications & Integrations',
+    position: 'Senior Service Engineer',
     url: 'https://microsoft.com',
     startDate: 'June 2022',
     summary: `Provide advanced technical support, system administration, and integration expertise for healthcare customers, acting as a primary technical owner for complex production issues, upgrades, identity/authentication configurations, and data pipeline health.
