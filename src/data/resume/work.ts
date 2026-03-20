@@ -62,7 +62,7 @@ const work: Position[] = [
   },
   {
     name: 'United States Marine Corps',
-    position: 'Sergenat of Marines',
+    position: 'Sergeant',
     url: 'https://www.marines.mil',
     startDate: 'August 2011',
     endDate: 'August 2016',
