@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 import ContactIcons from '@/components/Contact/ContactIcons';
-import EmailLink from '@/components/Contact/EmailLink';
+//import EmailLink from '@/components/Contact/EmailLink';
 
 import PageWrapper from '@/components/Template/PageWrapper';
 
@@ -20,7 +20,9 @@ export default function ContactPage() {
 
         <div className="contact-content">
           <div className="contact-email-block">
-            <EmailLink />
+            <div className="maray_16@yahoo.com">
+            </div>
+            {/* <EmailLink /> */}
             <p className="contact-hint">Usually respond within 24 hours</p>
           </div>
 
