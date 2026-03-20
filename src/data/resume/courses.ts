@@ -18,6 +18,7 @@ const courses: Course[] = [
   },
   {
     title: 'Copilot Champs | Training Achievement',
+    number: '64215B076983E8D0',
     link: 'https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fb20c8da2-0d66-48b4-9463-05229820340b%2Flinked_in_profile&urlhash=KHE-&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEa%2FAQH%2FrRM%2BQtNSMXPSroQ%3D%3D',
   },
 ];
