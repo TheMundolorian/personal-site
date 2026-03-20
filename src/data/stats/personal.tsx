@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import type { StatData } from '../../components/Stats/types';
 
 /** Birth date for age calculation (ISO format) */
-const BIRTH_DATE = '1993-11-18T09:24:00';
+const BIRTH_DATE = '1993-11-18T05:24:00';
 
 /** Milliseconds in an average year (accounting for leap years) */
 const MS_PER_YEAR = 1000 * 60 * 60 * 24 * 365.2421897;
@@ -46,7 +46,7 @@ const data: StatData[] = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
+    value: 5,
     link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
   },
   {

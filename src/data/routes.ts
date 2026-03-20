@@ -10,30 +10,30 @@ const routes: Route[] = [
     label: "Marcos Raymundo",
     path: '/',
   },
-  {
-    label: 'About',
-    path: '/about',
-  },
+  // {
+  //   label: 'About',
+  //   path: '/about',
+  // },
   {
     label: 'Resume',
     path: '/resume',
   },
-  {
-    label: 'Writing',
-    path: '/writing',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
+  // {
+  //   label: 'Writing',
+  //   path: '/writing',
+  // },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
   {
     label: 'Contact',
     path: '/contact',
   },
-  {
-    label: 'Archive',
-    path: '/projects',
-  },
+  // {
+  //   label: 'Archive',
+  //   path: '/projects',
+  // },
 ];
 
 export default routes;
