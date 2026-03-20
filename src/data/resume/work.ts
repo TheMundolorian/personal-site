@@ -14,10 +14,21 @@ export interface Position {
 const work: Position[] = [
   {
     name: 'Microsoft (Nuance Communications)',
-    position: 'Member of the CDE One/Clintegrity Support Team',
+    position: 'Senior Service Engineer - Healthcare Applications & Integrations',
     url: 'https://microsoft.com',
     startDate: 'June 2022',
-    summary: `Provide support for Microsoft's CDE One and Clintegrity platforms, which are used by healthcare organizations to manage patient data and ensure compliance with healthcare regulations. Troubleshoot and resolve technical issues, collaborate with cross-functional teams to improve platform performance and reliability, and contribute to the development of new features and capabilities. Also support integrations utilizing HL7 messaging which allows back and forth processing from Meditech, Epic and other EHR's.`,
+    summary: `Provide advanced technical support, system administration, and integration expertise for healthcare customers, acting as a primary technical owner for complex production issues, upgrades, identity/authentication configurations, and data pipeline health.
+    My current role blends application support, infrastructure troubleshooting, healthcare interoperability (HL7), security/identity management, and customer-facing technical leadership, frequently operating as the escalation point between customers, internal engineering, and external vendors.`,
+    highlights: [
+      'Diagnose and resolve issues involving application slowness, database capacity, message backlogs, service outages, and user access failures.',
+      'Perform deep analysis using logs, audit trails, SQL queries, and message queues to identify root cause and remediation paths.',
+      'Work closely with interface vendors (e.g., Ellkay, Epic, MEDITECH) to resolve translation and interoperability issues.',
+      'Support and troubleshoot SSO configurations, including ADFS, SAML, Auth0, certificate-based authentication, and metadata issues.',
+      'Identify and resolve certificate chain problems, expired certificates, missing intermediates, and login failures (403s, refresh loops). Coordinate certificate renewals and identity changes with customer security teams and internal stakeholders.',
+      'Plan, execute, and support Clintegrity upgrades across test and production environments.',
+      'Act as a trusted technical advisor to healthcare customers during incidents, upgrades, and integration projects.',
+      'Partner closely with peers across support, engineering, implementation, and product teams.'
+    ],
   },
   {
     name: 'Healthedge (Wellframe)',
