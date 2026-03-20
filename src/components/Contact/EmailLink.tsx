@@ -168,7 +168,7 @@ export default function EmailLink({ loopMessage = false }: EmailLinkProps) {
     >
       {isValid ? (
         <a
-          href={`mailto:${displayMessage}@mldangelo.com`}
+          href={`mailto:${displayMessage}@yahoo.com`}
           className="contact-email-link"
           onClick={handleClick}
           onKeyDown={handleKeyDown}
