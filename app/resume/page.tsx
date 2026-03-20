@@ -15,7 +15,7 @@ import work from '@/data/resume/work';
 export const metadata: Metadata = {
   title: 'Resume',
   description:
-    "Marcos Raymund's resume.",
+    "Marcos Raymundo's resume.",
 };
 
 export default function ResumePage() {
