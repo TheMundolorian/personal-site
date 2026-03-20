@@ -14,7 +14,7 @@ const courses: Course[] = [
   },
   {
     title: 'Microsoft Applied Skills: Create an AI agent',
-    number: 'N/A',
+    number: '',
     link: 'https://learn.microsoft.com/en-us/users/marcosraymundo-1027/credentials/64215b076983e8d0',
     university: 'Microsoft',
   },
@@ -26,7 +26,7 @@ const courses: Course[] = [
   },
   {
     title: 'Microsoft Applied Skills: Create and manage canvas apps with Power Apps',
-    number: 'N/A',
+    number: '',
     link: 'http://learn.microsoft.com/en-us/users/marcosraymundo-1027/credentials/ea3c27a63bbb5fba',
     university: 'Microsoft',
   },
