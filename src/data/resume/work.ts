@@ -20,16 +20,16 @@ const work: Position[] = [
     summary: `Provide advanced technical support, system administration, and integration expertise for healthcare customers, acting as a primary technical owner for complex production issues, upgrades, identity/authentication configurations, and data pipeline health.
     My current role blends application support, infrastructure troubleshooting, healthcare interoperability (HL7), security/identity management, and customer-facing technical leadership, frequently operating as the escalation point between customers, internal engineering, and external vendors.`,
     highlights: [
-      'Diagnose and resolve issues involving application slowness, database capacity, message backlogs, service outages, and user access failures.',
-      'Perform deep analysis using logs, audit trails, SQL queries, and message queues to identify root cause and remediation paths.',
+      'Diagnose and resolve issues involving application slowness, database capacity, message backlogs, service outages, and user access failures',
+      'Perform deep analysis using logs, audit trails, SQL queries, and message queues to identify root cause and remediation paths',
       'Create automations via Power Automate and Power Apps to assist in mitigating repetitive tasks',
       'Configure alerts through Grafana for monitoring client feeds which enabled a proactive response in troubleshooting and for on call paging',
-      'Work closely with interface vendors (e.g., Ellkay, Epic, MEDITECH) to resolve translation and interoperability issues.',
-      'Support and troubleshoot SSO configurations, including ADFS, SAML, Auth0, certificate-based authentication, and metadata issues.',
+      'Work closely with interface vendors (e.g., Ellkay, Epic, MEDITECH) to resolve translation and interoperability issues',
+      'Support and troubleshoot SSO configurations, including ADFS, SAML, Auth0, certificate-based authentication, and metadata issues',
       'Identify and resolve certificate chain problems, expired certificates, missing intermediates, and login failures (403s, refresh loops). Coordinate certificate renewals and identity changes with customer security teams and internal stakeholders.',
-      'Plan, execute, and support Clintegrity upgrades across test and production environments.',
-      'Act as a trusted technical advisor to healthcare customers during incidents, upgrades, and integration projects.',
-      'Partner closely with peers across support, engineering, implementation, and product teams.'
+      'Plan, execute, and support Clintegrity upgrades across test and production environments',
+      'Act as a trusted technical advisor to healthcare customers during incidents, upgrades, and integration projects',
+      'Partner closely with peers across support, engineering, implementation, and product teams'
     ],
   },
   {
@@ -53,7 +53,7 @@ const work: Position[] = [
     endDate: 'April 2021',
     summary: `Solved complex cases that consisted of in depth troubleshooting regarding payments, bank check transfers, invoices, software issues, performance, etc.`,
     highlights: [
-      'Promoted from Technical Specialist to Senior and eventually to Application Reliability Specialist.',
+      'Promoted from Technical Specialist to Senior and eventually to Application Reliability Specialist',
       'Provide Tier 3 support for clients utilizing Avidxchange accounts payable software (Strongroom, AvidPay, AvidInvoice, etc.)',
       'Assist software engineers in troubleshooting issues through the development of new enhancements',
       'Solving complex cases that consisted of in depth troubleshooting regarding payments, bank check transfers, invoices, software issues, performance, etc.',
@@ -68,7 +68,7 @@ const work: Position[] = [
     endDate: 'February 2018',
     summary: `On the spot troubleshooting while providing quick diagnostics and resolution for customers across Apple products. Worked in high tempo environment providing assistance to both technical support and product sales.`,
     highlights: [
-      'Promoted from Product Specialist to Genius Bar Specialist.',
+      'Promoted from Product Specialist to Genius Bar Specialist',
       'On the spot troubleshooting while providing quick diagnostics and resolutions',
       'Elevating customer relationships with Apple while providing insight and satisfaction to customers measured by the NetPromoter system',
     ],
@@ -81,11 +81,11 @@ const work: Position[] = [
     endDate: 'August 2016',
     summary: `Served as a 6492 Avionics Precision Measuring Equipment Technician, responsible for the calibration, maintenance, and repair of highly sensitive avionics test and measurement equipment. Demonstrated strong leadership as a Non-Commissioned Officer, supervising personnel, ensuring mission readiness, and maintaining strict compliance with military quality assurance and safety standards. Recognized for technical expertise, attention to detail, and the ability to perform effectively in high-pressure operational environments.`,
     highlights: [
-      'Climbed through the ranks from Private to Sergeant.',
-      'Honorably discharged after 5 years of active duty service.',
-      'Supervised the maintenance actions of 30 technicians, ensuring quality maintenance was performed for over 5,000 calibrated assets that were under the custody of multiple squadrons',
-      'Managed the inventory of 5,000 separate technical measurement assets worth $50,000,000 in accordance with the Naval  Aviation Maintenance Program (NAMP 4790.2X) while maintaining a 1.3% overdue rate and a 94.5% readiness rate.',
-      'Lean Six Sigma Yellow Belt certified.',
+      'Climbed through the ranks from Private to Sergeant',
+      'Honorably discharged after 5 years of active duty service',
+      'Supervised the maintenance actions of 30 technicians, ensuring quality maintenance was performed for calibrated assets',
+      'Managed the inventory of 5,000 separate technical measurement assets worth $50,000,000 in accordance with the Naval Aviation Maintenance Program (NAMP 4790.2X) while maintaining a 1.3% overdue rate and a 94.5% readiness rate',
+      'Lean Six Sigma Yellow Belt certified',
       'Inspected assets to verify compliance with FAA regulations',
       'Performed component level troubleshooting and repairs',
       'Completed hands on inspections for 7 active squadrons to substantiate adherence to calibration protocol and flight safety',
